@@ -2,4 +2,4 @@
 
 * Freezer
 * Cell
-* Androide 17
+* Capitan america
